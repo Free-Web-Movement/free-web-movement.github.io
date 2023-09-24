@@ -1,10 +1,7 @@
-[
-  {
-    "url": "games.yikuaijiasu.top",
-    "port": 4445
-  },
-  {
-    "url": "china.yikuaijiasu.top",
-    "port": 80
-  }
-]
+[{
+  "url": "games.yikuaijiasu.top",
+  "port": 4445
+}, {
+  "url": "china.yikuaijiasu.top",
+  "port": 80
+}]
